@@ -1,7 +1,7 @@
 # Predicting California Housing Prices Using Support Vector Regression
 
 ## Overview
-This project focuses on predicting **median house values** in California districts using **Support Vector Regression (SVR)**. The dataset used is the **California Housing dataset**, which provides a rich set of features collected from the 1990 U.S. census. The goal is to train a robust regression model using SVR with carefully tuned hyperparameters to achieve high predictive performance.
+This project focuses on predicting **median house values** in California districts using **Support Vector Regression (SVR)**. The dataset used is the **California Housing dataset**, which provides a rich set of features collected from the 1990 U.S. census. The goal is to train a robust regression model using SVR with carefully tuned hyperparameters to achieve predictive performance.
 
 This project demonstrates key machine learning techniques, including data preprocessing, hyperparameter tuning, model evaluation, and performance interpretation.
 
@@ -60,7 +60,3 @@ Ensure you have Python 3.7 or higher and the following libraries installed:
 - `numpy`
 - `pandas`
 - `scikit-learn`
-
-Install dependencies via pip:
-```bash
-pip install numpy pandas scikit-learn
